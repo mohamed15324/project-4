@@ -210,28 +210,28 @@ font-size: 18px;
     height: 138px;
     border-radius: 6px;
     position: relative;
-
 }
 .boxes .box .intro img{
     width: 200px;
     height: 109px;
 }
-.box .avatar{
+.boxes .welcome .avatar{
     width: 64px;
     height: 64px;
     border: 2px solid white;
     border-radius: 50%;
         box-shadow: 0 0 5px #ddd;
            position: absolute;
-    bottom: 385px;
-    left: 263px;
+    left: 20px;
+    bottom: -30px;
     
 } 
 .boxes .body{
     display: flex;
-   padding: 0 50px;
-   border-bottom: 1px solid #eee;
-   border-top: 1px solid #eee;
+    padding: 0 50px;
+    border-bottom: 1px solid #eee;
+    border-top: 1px solid #eee;
+    
 }
 .boxes .body div{
     padding: 10px 0;
@@ -1800,4 +1800,10 @@ margin: 0 0 0 auto;
 /* plans */
 #mo{
     color: red;
+}
+@media (max-width: 768px) {
+  .side-page h3, span {
+    display: none;
+    
+  }
 }
