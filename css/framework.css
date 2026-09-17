@@ -1,0 +1,160 @@
+.p-20{
+    padding: 20px;
+}
+.m-20{
+    margin: 20px;
+}
+.p-10{
+padding: 10px;
+}
+.bg-eee{
+    background-color: #eee;
+}
+.d-flex{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.tx-center{
+    text-align: center;
+}
+.p-relative{
+    position: relative;
+}
+.p-absolute{
+    position: absolute;
+}
+.col-orange{
+    color: #f59e0b;
+
+}
+.col-blue{
+    color: #0075ff;
+
+}
+.col-green{
+    color: #22c55e;
+
+}
+.bg-red{
+    background-color: #f44336;}
+.bg-orange{
+    background-color: #f59e0b;
+
+}
+.bg-blue{
+    background-color: #0075ff;
+
+}
+.bg-green{
+    background-color: #22c55e;
+
+}
+.bg-red{
+    background-color: #f44336;
+
+}
+.c-white{
+    color: white;
+}
+.btn-shape{
+    padding: 5px;
+    border-radius: 6px;
+}
+.fc-p{
+    color: #888888;
+}
+.fs-16{
+    font-size: 16px;
+}
+.mb-20{
+    margin-bottom: 20px;
+}
+.mb-10{
+    margin-bottom: 10px;
+}
+.d-block{
+    display: block;
+}
+.box-20{
+      background-color: white;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 6px;
+}
+.box-10{
+      background-color: white;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 6px;
+}
+.pt-10{
+    padding: 0 10px 10px 10px;
+}
+.mr-10{
+    margin-right: 10px;
+}
+.px-5{
+    padding:  0 5px;
+}
+.flex-bet{
+    display: flex;
+    justify-content: space-between;
+}
+.btn-shape {
+    padding: 4px 10px;
+    border-radius: 6px;
+}
+.fw-b{
+    font-weight: bolder;
+}
+.bb-eee{
+    border-bottom: solid #eee 1px;
+}
+.c-black{
+    color: black;
+}
+.bg-eee{
+    background-color: #eee;
+}
+.bg-white{
+    background-color: white;
+}
+.w-full{
+width: 100%;
+}
+.pi-relative{
+    position: relative;
+    left: 0;
+}
+.mt-10{
+    margin-top: 10px;
+}
+.br-1{
+    border-bottom: 1px solid #eee;
+}
+.p-15{
+    padding: 15px;
+}
+.bgb-eee{
+    background-color: #f6f6f6;
+    border-radius: 3px;
+}
+.my-10{
+    margin: 10px 0;
+}
+.sc-red{
+   background-color: #f44336;
+   width: 50%;
+}
+.sc-green{
+   background-color: #22c55e;
+   width: 80%;
+}
+.sc-blue{
+   background-color: #0075ff;
+   width: 100%;
+}
+.w-fit{
+    width: fit-content;
+}
